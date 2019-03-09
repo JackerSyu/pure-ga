@@ -1,0 +1,22 @@
+body {
+    margin: 10px auto;
+    background: rgb(236, 187, 95);
+}
+
+.p5Canvas{
+    border: 5px solid rgb(238, 203, 8);
+    background: rgb(235, 212, 171);
+    width: 660px;
+    height: 630px;
+    padding: 20px;
+}
+
+.bg{
+    border: 5px solid #ce4712;
+    background: rgb(234, 235, 171);
+    width: 150px;
+    height: 240px;
+    padding: 20px;
+    position:absolute;
+    right:30px;
+}
